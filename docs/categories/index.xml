@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on SanZORB</title>
+    <link>https://github.com/sandorfalot/sanzorb/categories/</link>
+    <description>Recent content in Categories on SanZORB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jun 2021 22:36:38 -0400</lastBuildDate><atom:link href="https://github.com/sandorfalot/sanzorb/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code</title>
+      <link>https://github.com/sandorfalot/sanzorb/categories/code/</link>
+      <pubDate>Tue, 15 Jun 2021 22:36:38 -0400</pubDate>
+      
+      <guid>https://github.com/sandorfalot/sanzorb/categories/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mittens</title>
+      <link>https://github.com/sandorfalot/sanzorb/categories/mittens/</link>
+      <pubDate>Tue, 15 Jun 2021 22:36:38 -0400</pubDate>
+      
+      <guid>https://github.com/sandorfalot/sanzorb/categories/mittens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://github.com/sandorfalot/sanzorb/categories/personal/</link>
+      <pubDate>Tue, 15 Jun 2021 22:36:38 -0400</pubDate>
+      
+      <guid>https://github.com/sandorfalot/sanzorb/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>https://github.com/sandorfalot/sanzorb/categories/project/</link>
+      <pubDate>Tue, 15 Jun 2021 22:36:38 -0400</pubDate>
+      
+      <guid>https://github.com/sandorfalot/sanzorb/categories/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rant</title>
+      <link>https://github.com/sandorfalot/sanzorb/categories/rant/</link>
+      <pubDate>Tue, 15 Jun 2021 22:36:38 -0400</pubDate>
+      
+      <guid>https://github.com/sandorfalot/sanzorb/categories/rant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web development</title>
+      <link>https://github.com/sandorfalot/sanzorb/categories/web-development/</link>
+      <pubDate>Tue, 15 Jun 2021 22:36:38 -0400</pubDate>
+      
+      <guid>https://github.com/sandorfalot/sanzorb/categories/web-development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

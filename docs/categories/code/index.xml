@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on SanZORB</title>
+    <link>https://github.com/sandorfalot/sanzorb/categories/code/</link>
+    <description>Recent content in Code on SanZORB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jun 2021 22:36:38 -0400</lastBuildDate><atom:link href="https://github.com/sandorfalot/sanzorb/categories/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third Post</title>
+      <link>https://github.com/sandorfalot/sanzorb/posts/2021/06/third-post/</link>
+      <pubDate>Tue, 15 Jun 2021 22:36:38 -0400</pubDate>
+      
+      <guid>https://github.com/sandorfalot/sanzorb/posts/2021/06/third-post/</guid>
+      <description>Cats are believed to be the only mammals who don’t taste sweetness.
+Cats are nearsighted, but their peripheral vision and night vision are much better than that of humans.</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>https://github.com/sandorfalot/sanzorb/posts/2021/06/second-post/</link>
+      <pubDate>Tue, 15 Jun 2021 22:35:32 -0400</pubDate>
+      
+      <guid>https://github.com/sandorfalot/sanzorb/posts/2021/06/second-post/</guid>
+      <description>Cats are believed to be the only mammals who don’t taste sweetness.
+Cats are nearsighted, but their peripheral vision and night vision are much better than that of humans.</description>
+    </item>
+    
+  </channel>
+</rss>
