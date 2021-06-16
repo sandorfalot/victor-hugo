@@ -5,3 +5,14 @@ theme = "basic"
 [params]
 author = "San Glover"
 description = "My personal portfolio and blog. Using various technologies for web design, development and data visualization from Javascript to Python and static site generators"
+pygmentsUseClasses = true
+[permalinks]
+    posts = "/posts/:year/:month/:slug/"
+    year = "/posts/:slug/"
+    month = "/posts/:slug/"
+[taxonomies]
+    year = "year"
+    month = "month"
+    tag = "tags"
+    category = "categories"
+publishDir = "docs"

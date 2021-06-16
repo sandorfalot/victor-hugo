@@ -1,0 +1,12 @@
+<article class="p-2">
+    <header>
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <time>
+            {{ .Date | dateFormat "January" }}
+            {{ .Date | dateFormat "2" }}
+            {{ .Date | dateFormat "2006 "}}
+        </time>
+    </header>
+    {{ .Summary }}
+</article>
+<hr>

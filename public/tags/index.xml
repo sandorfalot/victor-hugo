@@ -1,1 +1,92 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Sanzorb</title><link>http://sanzorb.com/tags/</link><description>Recent content in Tags on Sanzorb</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://sanzorb.com/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on SanZORB</title>
+    <link>http://sanzorb.com/tags/</link>
+    <description>Recent content in Tags on SanZORB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jun 2021 22:36:38 -0400</lastBuildDate><atom:link href="http://sanzorb.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>django</title>
+      <link>http://sanzorb.com/tags/django/</link>
+      <pubDate>Tue, 15 Jun 2021 22:36:38 -0400</pubDate>
+      
+      <guid>http://sanzorb.com/tags/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>frustrating</title>
+      <link>http://sanzorb.com/tags/frustrating/</link>
+      <pubDate>Tue, 15 Jun 2021 22:36:38 -0400</pubDate>
+      
+      <guid>http://sanzorb.com/tags/frustrating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>http://sanzorb.com/tags/html/</link>
+      <pubDate>Tue, 15 Jun 2021 22:36:38 -0400</pubDate>
+      
+      <guid>http://sanzorb.com/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>http://sanzorb.com/tags/javascript/</link>
+      <pubDate>Tue, 15 Jun 2021 22:36:38 -0400</pubDate>
+      
+      <guid>http://sanzorb.com/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mysql</title>
+      <link>http://sanzorb.com/tags/mysql/</link>
+      <pubDate>Tue, 15 Jun 2021 22:36:38 -0400</pubDate>
+      
+      <guid>http://sanzorb.com/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>not working</title>
+      <link>http://sanzorb.com/tags/not-working/</link>
+      <pubDate>Tue, 15 Jun 2021 22:36:38 -0400</pubDate>
+      
+      <guid>http://sanzorb.com/tags/not-working/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>php</title>
+      <link>http://sanzorb.com/tags/php/</link>
+      <pubDate>Tue, 15 Jun 2021 22:36:38 -0400</pubDate>
+      
+      <guid>http://sanzorb.com/tags/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>http://sanzorb.com/tags/python/</link>
+      <pubDate>Tue, 15 Jun 2021 22:36:38 -0400</pubDate>
+      
+      <guid>http://sanzorb.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vue</title>
+      <link>http://sanzorb.com/tags/vue/</link>
+      <pubDate>Tue, 15 Jun 2021 22:36:38 -0400</pubDate>
+      
+      <guid>http://sanzorb.com/tags/vue/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

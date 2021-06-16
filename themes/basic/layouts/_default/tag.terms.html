@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="container-fluid p-4">
+<h2>{{ .Title }}</h2>
+
+{{ .Content }}
+
+{{ range .Data.Terms.Alphabetical }}
+<p class="tag">
+    <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+    <span class="count">({{ .Count }})</span>
+</p>
+{{ end }}
+</div>
+{{ end }}

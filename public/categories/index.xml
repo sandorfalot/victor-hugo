@@ -1,1 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Sanzorb</title><link>http://sanzorb.com/categories/</link><description>Recent content in Categories on Sanzorb</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://sanzorb.com/categories/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on SanZORB</title>
+    <link>http://sanzorb.com/categories/</link>
+    <description>Recent content in Categories on SanZORB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jun 2021 22:36:38 -0400</lastBuildDate><atom:link href="http://sanzorb.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code</title>
+      <link>http://sanzorb.com/categories/code/</link>
+      <pubDate>Tue, 15 Jun 2021 22:36:38 -0400</pubDate>
+      
+      <guid>http://sanzorb.com/categories/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mittens</title>
+      <link>http://sanzorb.com/categories/mittens/</link>
+      <pubDate>Tue, 15 Jun 2021 22:36:38 -0400</pubDate>
+      
+      <guid>http://sanzorb.com/categories/mittens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>http://sanzorb.com/categories/personal/</link>
+      <pubDate>Tue, 15 Jun 2021 22:36:38 -0400</pubDate>
+      
+      <guid>http://sanzorb.com/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>http://sanzorb.com/categories/project/</link>
+      <pubDate>Tue, 15 Jun 2021 22:36:38 -0400</pubDate>
+      
+      <guid>http://sanzorb.com/categories/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rant</title>
+      <link>http://sanzorb.com/categories/rant/</link>
+      <pubDate>Tue, 15 Jun 2021 22:36:38 -0400</pubDate>
+      
+      <guid>http://sanzorb.com/categories/rant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web development</title>
+      <link>http://sanzorb.com/categories/web-development/</link>
+      <pubDate>Tue, 15 Jun 2021 22:36:38 -0400</pubDate>
+      
+      <guid>http://sanzorb.com/categories/web-development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
