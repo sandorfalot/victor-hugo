@@ -1,0 +1,7 @@
+baseURL = "http://sanzorb.com/"
+languageCode = "en-us"
+title = "SanZORB"
+theme = "basic"
+[params]
+author = "San Glover"
+description = "My personal portfolio and blog. Using various technologies for web design, development and data visualization from Javascript to Python and static site generators"

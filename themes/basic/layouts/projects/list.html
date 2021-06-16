@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div class="container-fluid">
+<h2>{{ .Title }}</h2>
+
+{{ .Content }}
+<hr>
+<section class="projects">
+    {{ range .Pages }}
+    <section class="project">
+        <h4 class="font-weight: 300;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+<p>{{ .Summary }}</p>
+    </section>
+    {{ end }}
+</section>
+</div>
+{{ end }}
